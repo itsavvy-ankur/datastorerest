@@ -15,7 +15,7 @@
 * Change project id in `main.go`
 ```golang
     // Set your Google Cloud Platform project ID.
-    projectID := "aqueous-tube-252313"
+    projectID := "CHANGE_ME"
 ```
 
 * Execute using
